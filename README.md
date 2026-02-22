@@ -3,9 +3,7 @@
 ## Project info
 
 **URL**:https://mentormind-ai.vercel.app
-
         https://mentormind-ai.vercel.app/
-        
         http://localhost:8080
 
 ## How can I edit this code?
