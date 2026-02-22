@@ -2,7 +2,9 @@
 
 ## Project info
 
-**URL**:https://study-buddy-ai-space.Mentormind AI.app/
+**URL**:https://mentormind-ai.vercel.app
+https://mentormind-ai.vercel.app/
+http://localhost:5173
 
 ## How can I edit this code?
 
