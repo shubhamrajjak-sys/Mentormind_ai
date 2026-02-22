@@ -3,8 +3,10 @@
 ## Project info
 
 **URL**:https://mentormind-ai.vercel.app
+
         https://mentormind-ai.vercel.app/
-        http://localhost:5173
+        
+        http://localhost:8080
 
 ## How can I edit this code?
 
@@ -21,7 +23,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <>
+git clone <https://github.com/shubhamrajjak-sys/Mentormind_ai.git>
 
 # Step 2: Navigate to the project directory.
 cd <Mentormind-ai>
