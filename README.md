@@ -2,7 +2,9 @@
 
 ## Project info
 
-**URL**:https://study-buddy-ai-space.Mentormind AI.app/
+**URL**:https://mentormind-ai-six.vercel.app
+        https://mentormind-ai-six.vercel.app/
+        http://localhost:8080
 
 ## How can I edit this code?
 
@@ -19,10 +21,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/shubhamrajjak-sys/Mentormind_ai.git>
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd <Mentormind-ai>
 
 # Step 3: Install the necessary dependencies.
 npm i
